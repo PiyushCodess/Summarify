@@ -57,9 +57,6 @@ python main.py
 3. Click "Summarize"
 4. Get instant AI-generated summaries with action items!
 
-## Screenshots
-
-(Add screenshots here after deployment)
 
 ## License
 
@@ -67,4 +64,4 @@ MIT License
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+Your Name - [Your GitHub Profile](https://github.com/PiyushCodess)
