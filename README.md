@@ -64,4 +64,4 @@ MIT License
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/PiyushCodess)
+Your Name - [Piyush Patrikar](https://github.com/PiyushCodess)
